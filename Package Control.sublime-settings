@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Atomic Color Scheme",
+		"BracketHighlighter",
+		"GitGutter",
+		"MarkdownTOC",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Getters and Setters",
+		"ProjectManager",
+		"ReIndent",
+		"Sass",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Gravity",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes",
+		"TypeScript"
+	]
+}

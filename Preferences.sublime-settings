@@ -1,0 +1,20 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Tomorrow Color Schemes - Custom/Tomorrow-Night-Eighties.tmTheme",
+	"font_face": "Source Code Pro",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"CodeComplice",
+		"Vintage"
+	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
